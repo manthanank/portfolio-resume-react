@@ -1,6 +1,6 @@
 # React JS Resume Starter Pack and Digital Portfolio
 
-![PAPA React JS Portfolio Starter Pack](resume-screenshot.jpg?raw=true "PAPA React JS Portfolio Stater Pack ")
+![React JS Portfolio Starter Pack](resume-screenshot.jpg?raw=true "React JS Portfolio Stater Pack ")
 
 ### <a href="https://portfolio-resume-react.netlify.app/">LIVE DEMO</a>
 
