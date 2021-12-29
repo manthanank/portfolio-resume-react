@@ -4,7 +4,7 @@
     "occupation": "Front-End Developer",
     "description": "I eat, sleep and learn web development",
     "image": "profilepic.jpg",
-    "bio": "Hi there! I am Manthan! You might also know me as manthanank. I've been coding for over 2 years now. As a Front-End developer I've started my journey in web development and enrolled for training programme and completed, also had done internship in ML using python.",
+    "bio": "Hi there! I am Manthan! You might also know me as manthanank. I've been coding for over 2 years now. As a Front-End developer I've started my journey in web development and enrolled for training programme and completed, also had done internship in ML using python. Now Doing internship in Faclon Labs Pvt.Ltd",
     "contactmessage": "Get in touch with me!",
     "email": "manthan.ank46@gmail.com",
     "phone": "+91 8105068268",
@@ -15,7 +15,7 @@
       "zip": "581314"
     },
     "website": "#home",
-    "resumedownload": "https://docs.google.com/document/d/1MwlGwQZ0MGeWJgFPcNwtppiqeFEfb4sOzsUlZkTnGO0/edit?usp=sharing",
+    "resumedownload": "https://docs.google.com/document/d/1xtZIJVOziXqcYWiY2KVcEYJWNKd44Vz4NDBYmmlKf-c/edit?usp=sharing",
     "social": [
       {
         "name": "twitter",
@@ -54,7 +54,7 @@
         "description": "Batch of 2020"
       }
     ],
-    "internship": [
+    "internship1": [
       {
         "company": "Karanji InfoTech Pvt.Ltd",
         "title": "Student Intern",
@@ -70,6 +70,14 @@
         "description": "Completed two training in front-end development using HTML5,CSS,JavaScript,JSON,RestAPI,Angular. And completed one project in angular ie, Covid-19 Tracker Web Page using API."
       }
     ],
+    "internship2": [
+      {
+        "company": "Faclon Labs Pvt.Ltd",
+        "title": "Front-End Developer Intern",
+        "years": "22 Nov 2021 - Ongoing",
+        "description": "It's three months intership in angular as a front-end developer."
+      }
+    ],
     "skills": [
       {
         "name": "HTML5",
@@ -81,19 +89,19 @@
       },
       {
         "name": "JavaScript",
-        "level": "75%"
+        "level": "78%"
       },
       {
         "name": "Angular",
-        "level": "75%"
+        "level": "80%"
       },
       {
         "name": "ReactJS",
-        "level": "65%"
+        "level": "70%"
       },
       {
         "name": "Git",
-        "level": "70%"
+        "level": "75%"
       },
       {
         "name": "Web Development",
@@ -101,7 +109,7 @@
       },
       {
         "name": "Python",
-        "level": "60%"
+        "level": "55%"
       }
     ]
   },

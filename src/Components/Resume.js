@@ -15,15 +15,15 @@ const Resume = ({ data }) => {
         </div>
       );
     });
-    var internship = data.internship.map(function (internship) {
+    var internship1 = data.internship1.map(function (internship1) {
       return (
-        <div key={internship.company}>
-          <h3>{internship.company}</h3>
+        <div key={internship1.company}>
+          <h3>{internship1.company}</h3>
           <p className="info">
-            {internship.title}
-            <span>&bull;</span> <em className="date">{internship.years}</em>
+            {internship1.title}
+            <span>&bull;</span> <em className="date">{internship1.years}</em>
           </p>
-          <p>{internship.description}</p>
+          <p>{internship1.description}</p>
         </div>
       );
     });
@@ -36,6 +36,18 @@ const Resume = ({ data }) => {
             <span>&bull;</span> <em className="date">{training.years}</em>
           </p>
           <p>{training.description}</p>
+        </div>
+      );
+    });
+    var internship2 = data.internship2.map(function (internship2) {
+      return (
+        <div key={internship2.company}>
+          <h3>{internship2.company}</h3>
+          <p className="info">
+            {internship2.title}
+            <span>&bull;</span> <em className="date">{internship2.years}</em>
+          </p>
+          <p>{internship2.description}</p>
         </div>
       );
     });
@@ -66,14 +78,14 @@ const Resume = ({ data }) => {
         </div>
       </div>
 
-      <div className="row internship">
+      <div className="row internship1">
         <div className="three columns header-col">
           <h1>
             <span>internship</span>
           </h1>
         </div>
 
-        <div className="nine columns main-col">{internship}</div>
+        <div className="nine columns main-col">{internship1}</div>
       </div>
 
       <div className="row training">
@@ -86,6 +98,16 @@ const Resume = ({ data }) => {
         <div className="nine columns main-col">{training}</div>
       </div>
 
+      <div className="row internship2">
+        <div className="three columns header-col">
+          <h1>
+            <span>internship</span>
+          </h1>
+        </div>
+
+        <div className="nine columns main-col">{internship2}</div>
+      </div>
+      
       <div className="row skill">
         <div className="three columns header-col">
           <h1>
