@@ -116,6 +116,12 @@
   "portfolio": {
     "projects": [
       {
+        "title": "Netflix Clone Page",
+        "category": "React",
+        "image": "netflix-clone.png",
+        "url": "https://github.com/manthanank/netflix-clone"
+      },
+      {
         "title": "Jewellery Shopping Page",
         "category": "HTML,CSS,JS",
         "image": "jewellerypage.png",
