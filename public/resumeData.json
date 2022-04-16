@@ -122,6 +122,12 @@
         "url": "https://github.com/manthanank/netflix-clone"
       },
       {
+        "title": "Modern Cryptopunk Clone with React.js & Web 3.0",
+        "category": "React",
+        "image": "moderncryptopunkclonewithreact.js&web3.0.png",
+        "url": "https://github.com/manthanank/react-app-tokens"
+      },
+      {
         "title": "Jewellery Shopping Page",
         "category": "HTML,CSS,JS",
         "image": "jewellerypage.png",
@@ -144,12 +150,6 @@
         "category": "Angular",
         "image": "covidtrackerpage.png",
         "url": "https://github.com/manthanank/covid19tracker"
-      },
-      {
-        "title": "Modern Cryptopunk Clone with React.js & Web 3.0",
-        "category": "React",
-        "image": "moderncryptopunkclonewithreact.js&web3.0.png",
-        "url": "https://github.com/manthanank/react-app-tokens"
       }
     ],
     "profiles":[
