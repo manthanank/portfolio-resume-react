@@ -4,18 +4,17 @@
     "occupation": "Front-End Developer",
     "description": "I eat, sleep and learn web development",
     "image": "profilepic.jpg",
-    "bio": "Hi there! I am Manthan! You might also know me as manthanank. I've been coding for over 2 years now. As a Front-End developer I've started my journey in web development and enrolled for training programme and completed, also had done internship in ML using python. Now Doing internship in Faclon Labs Pvt.Ltd",
+    "bio": "Hi there! I am Manthan! You might also know me as manthanank. I've been coding for over 2 years now. As a Front-End developer I've started my journey in web development and enrolled for training programme and completed, also had done internship in ML using python. Worked as Front End Angular Developer in Faclon Labs Pvt.Ltd.",
     "contactmessage": "Get in touch with me!",
     "email": "manthan.ank46@gmail.com",
     "phone": "+91 8105068268",
     "address": {
-      "street": "Keni Road",
       "city": "Ankola",
       "state": "Karnataka",
       "zip": "581314"
     },
     "website": "#home",
-    "resumedownload": "https://docs.google.com/document/d/1xtZIJVOziXqcYWiY2KVcEYJWNKd44Vz4NDBYmmlKf-c/edit?usp=sharing",
+    "resumedownload": "https://docs.google.com/document/d/1MqH95kIxIU-sELRqlPtHYkA98BUwj2UPrKsJLcTvgfQ/edit?usp=sharing",
     "social": [
       {
         "name": "twitter",
@@ -56,6 +55,14 @@
     ],
     "internship1": [
       {
+        "company": "Faclon Labs Pvt.Ltd",
+        "title": "Front-End Developer Intern",
+        "years": "22 Nov 2021 - 25 Apr 2022",
+        "description": "It was six months internship in angular as a front-end developer. My work work was to design and develop in projects like Admin Panel, Main Project, Report UI."
+      }
+    ],
+    "internship2": [
+      {
         "company": "Karanji InfoTech Pvt.Ltd",
         "title": "Student Intern",
         "years": "May 2019 - Jun 2019",
@@ -67,25 +74,17 @@
         "company": "SounderGrad Training Programme",
         "title": "Training",
         "years": "May 2021 - July 2021",
-        "description": "Completed two training in front-end development using HTML5,CSS,JavaScript,JSON,RestAPI,Angular. And completed one project in angular ie, Covid-19 Tracker Web Page using API."
-      }
-    ],
-    "internship2": [
-      {
-        "company": "Faclon Labs Pvt.Ltd",
-        "title": "Front-End Developer Intern",
-        "years": "22 Nov 2021 - Ongoing",
-        "description": "It's three months intership in angular as a front-end developer."
+        "description": "Completed two training in front-end development using HTML5, CSS, JavaScript, JSON, RestAPI, Angular. And completed one project in angular ie, Covid-19 Tracker Web Page using API."
       }
     ],
     "skills": [
       {
-        "name": "HTML5",
-        "level": "98%"
+        "name": "HTML",
+        "level": "90%"
       },
       {
-        "name": "CSS3",
-        "level": "95%"
+        "name": "CSS",
+        "level": "80%"
       },
       {
         "name": "JavaScript",
@@ -93,23 +92,23 @@
       },
       {
         "name": "Angular",
-        "level": "80%"
+        "level": "75%"
       },
       {
         "name": "ReactJS",
-        "level": "70%"
+        "level": "60%"
       },
       {
         "name": "Git",
         "level": "75%"
       },
       {
-        "name": "Web Development",
-        "level": "90%"
+        "name": "Python",
+        "level": "45%"
       },
       {
-        "name": "Python",
-        "level": "55%"
+        "name": "Web Development",
+        "level": "85%"
       }
     ]
   },
@@ -134,7 +133,7 @@
         "url": "https://github.com/manthanank/covid19tracker"
       }
     ],
-    "profiles":[
+    "profiles": [
       {
         "title": "LinkedIn",
         "category": "Profile",

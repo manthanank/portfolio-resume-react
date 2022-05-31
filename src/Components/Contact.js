@@ -7,8 +7,7 @@ const Contact = ({ data }) => {
   const [message, setMessage] = useState("");
 
   if (data) {
-    var contactName = data.name;
-    var street = data.address.street;
+    //var contactName = data.name;
     var city = data.address.city;
     var state = data.address.state;
     var zip = data.address.zip;
@@ -121,12 +120,11 @@ const Contact = ({ data }) => {
           <div className="widget widget_contact">
             <h4>Address and Phone</h4>
             <p className="address">
-              {contactName}
+              Manthan Ankolekar
               <br />
               {contactEmail}
               <br />
               <br />
-              {street} <br />
               {city}, {state} {zip}
               <br />
               <span>{phone}</span>
