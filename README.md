@@ -18,9 +18,9 @@ Next, you will need to run the following command in the Terminal to clone the re
 
 ```git clone https://github.com/sonnysangha/Resume-Portfolio-Starter-pack.git```
 
-## 3. Install Dependancies
+## 3. Install Dependencies
 
-Next, you need to install all the dependancies using:
+Next, you need to install all the dependencies using:
 
 ```npm install```
 
@@ -30,15 +30,15 @@ Once this is done, you can start the app with:
 
 ## 4. Fill in your personal info
 
-To populate the website with all of your own data, open the public/resumeData.json file and simply replace the data in there with your own. Images for the porfolio section are to be put in the public/images/portfolio folder.
+To populate the website with all of your own data, open the public/resumeData.json file and simply replace the data in there with your own. Images for the portfolio section are to be put in the public/images/portfolio folder.
 
 ## 5. (OPTIONAL) Replacing images and/or fonts
 
 If you want to display your own pictures then you have to replace the files at these locations: public/images/header-background.jpg, public/images/testimonials-bg.jpg and public/favicon.ico. FILE NAMES MUST NOT BE CHANGED else the code referencing these images will no longer work.
 
-## 7. Finalising Resume
+## Finalizing
 
-Once all the formatting and data input is finalised, run `npm run build`. This will create a dedicated build folder.
+Once all the formatting and data input is finalized, run `npm run build`. This will create a dedicated build folder.
 
 ## 8. Host Resume Online
 
